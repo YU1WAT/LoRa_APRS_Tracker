@@ -2,7 +2,7 @@
 	"debug": false,
 	"beacons": [
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "YU1WAT-7",
 			"path": "WIDE1-1",
 			"message": "LoRa Tracker",
 			"timeout": 1,
@@ -26,8 +26,8 @@
 		"alt_message": true
 	},
 	"lora": {
-		"frequency_rx": 433775000,
-		"frequency_tx": 433775000,
+		"frequency_rx": 433500000,
+		"frequency_tx": 433500000,
 		"power": 20,
 		"spreading_factor": 12,
 		"signal_bandwidth": 125000,
